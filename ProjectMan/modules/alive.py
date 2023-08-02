@@ -1,11 +1,10 @@
-# Credits: @mrismanaziz
+# Credits: @STUPID_FAMILY
 # Copyright (C) 2022 Pyro-ManUserbot
 #
 # This file is a part of < https://github.com/mrismanaziz/PyroMan-Userbot/ >
 # PLease read the GNU Affero General Public License in
 # <https://www.github.com/mrismanaziz/PyroMan-Userbot/blob/main/LICENSE/>.
-#
-# t.me/SharingUserbot & t.me/Lunatic0de
+# t.me/CARI_TEMAN_SLEEPCALL & t.me/bahagiasluu
 
 import asyncio
 import os
